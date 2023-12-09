@@ -179,4 +179,12 @@ font-size: 20px;
     .tweet{
         font-size: 10px;
     }
+.top-right-list li {
+        font-size: 15px;
+        padding-right: 20px;
+    }
+    .section-top-card ul {
+        margin: 1px 0px 0px -3px;
+        padding: 2px;
+    }
 }
