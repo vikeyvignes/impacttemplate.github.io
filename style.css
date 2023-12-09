@@ -89,7 +89,7 @@ opacity: 0.7
     background:#026558;
     border-radius: 10px;
     margin-bottom: 10px;
-    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.20);
+    box-shadow: rgba(0, 0, 0, 0.45) 30px -20px 20px -20px;
     border: none;
 }
 .section-bottom-card{
