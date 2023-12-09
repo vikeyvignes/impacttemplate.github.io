@@ -137,6 +137,7 @@ font-size: 20px;
     }
 }
 
+
 @media(max-width: 576px) {
     .banner-left-content h2{
         font-size: 20px;
@@ -153,6 +154,29 @@ font-size: 20px;
         margin-top: 20px;
     }
     .top-left-list li a{
-        font-size: 8px;
+        font-size: 6px;
+    }
+    .top-left-list li{
+        color: #ffffff;
+        text-align: center;
+        padding-left:5px;
+    }
+    .mail{
+        font-size: 12px;
+    }
+    .phone{
+        font-size: 12px;
+    }
+    .insta{
+        font-size: 15px;
+    }
+    .face{
+        font-size: 15px;
+    }
+    .whats{
+        font-size: 15px;
+    }
+    .tweet{
+        font-size: 15px;
     }
 }
